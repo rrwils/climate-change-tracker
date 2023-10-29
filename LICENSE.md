@@ -352,7 +352,8 @@ Section 8 -- Interpretation.
      processes of any jurisdiction or authority.
 
 
-**Attributions**
+## Attributions
+
 Albeck-Ripka, Livia. 2019. How to Reduce Your Carbon Footprint. https://www.nytimes.com/guides/year-of-living-better/how-to-reduce-your-carbon-footprint.
 
 2014. "Ask the Experts: The IPCC Fifth Assessment Report." Carbon Management 5 (1): 17-25. https://doi.org/10.4155/cmt.13.80 
